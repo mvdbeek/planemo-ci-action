@@ -16,3 +16,4 @@ sudo mkdir -p /cvmfs/main.galaxyproject.org
 sudo mkdir -p /cvmfs/data.galaxyproject.org
 sudo mount -t cvmfs main.galaxyproject.org /cvmfs/main.galaxyproject.org
 sudo mount -t cvmfs data.galaxyproject.org /cvmfs/data.galaxyproject.org
+ls -R /cvmfs/data.galaxyproject.org
